@@ -146,7 +146,7 @@ This Policy is based on the Software’s current functionality and does not cons
 
 ## 18. Contact
 For privacy or security inquiries:
-- Email: xueliang.zhang@honeywell.com
+- Email: zhangxueliang1990@126.com
 
 If this address is not applicable, replace it with an appropriate maintainer contact.
 
